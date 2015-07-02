@@ -1,0 +1,10 @@
+name: ClearChat
+description: ClearChat
+main: me.eduard.clearchat.Main
+version: 1.0
+authors: [Eduard]
+commands:
+  clearchat:
+    description: Limpar o Chat
+  clearchatall:
+    description: Limpar o Chat de todos

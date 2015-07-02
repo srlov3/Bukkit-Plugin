@@ -1,0 +1,6 @@
+name: Template
+description: Plugin Template
+main: me.eduard.template.Main
+version: 1.0
+authors: [Eduard]
+commands:

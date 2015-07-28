@@ -77,7 +77,7 @@ public class Main extends JavaPlugin implements Listener {
 			if (p.getHealth() < p.getMaxHealth()) {
 				p.setHealth(p.getHealth() + vida > p.getMaxHealth() ? p
 						.getMaxHealth() : p.getHealth() + vida);
-				e.getItem().setType(Material.BOW);
+				e.getItem().setType(Material.BOWL);
 			}
 			if (p.getFoodLevel() < 20) {
 				p.setFoodLevel(fome + p.getFoodLevel() > 20 ? 20 : fome
